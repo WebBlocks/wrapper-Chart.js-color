@@ -1,0 +1,7 @@
+{
+  "name": "WebBlocks-wrapper-Chart.js-color",
+  "version": "1.0.1",
+  "dependencies": {
+    "Chart.js-color": "https://github.com/chartjs/color.git#1.0.1"
+  }
+}
